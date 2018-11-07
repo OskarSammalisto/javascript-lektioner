@@ -1,0 +1,15 @@
+div{
+    font-size: 300%;
+}
+
+.content{
+    display: none;
+}
+
+#one_content{
+    display: inline;
+}
+
+.highlight{
+    background-color: saddlebrown;
+}
